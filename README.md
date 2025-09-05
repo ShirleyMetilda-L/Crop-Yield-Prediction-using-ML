@@ -1,6 +1,6 @@
 # Crop-Yield-Prediction-using-ML
 
-This project predicts crop yield based on factors such as rainfall, pesticide usage, average temperature, country, and crop type.  
+This project predicts agricultural crop yield based on factors such as rainfall, pesticide usage, average temperature, country, and crop type.  
 Built with **Flask (backend)** and **Bootstrap (frontend)**.
 
 ## Features
